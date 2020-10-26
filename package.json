@@ -1,9 +1,10 @@
 {
-  "name": "qtum-mobile-api-server",
+  "name": "bcs-mobile-api-server",
   "version": "0.3.2",
-  "description": "Node.JS mobile server for QTUM application",
+  "description": "Node.JS mobile server for BCS Chain application",
   "dependencies": {
     "async": "^2.1.4",
+    "bcscore-lib": "https://github.com/cook-alex/bcscore-lib.git",
     "bignumber.js": "^4.0.0",
     "bitcoin": "^3.0.1",
     "bitcoinjs-lib": "^2.3.0",
@@ -30,14 +31,13 @@
     "node-dir": "^0.1.16",
     "node-gcm": "^0.14.6",
     "npm": "^4.1.1",
-    "qtumcore-lib": "https://github.com/qtumproject/qtumcore-lib.git",
     "query-string": "^5.0.1",
     "raven": "^1.1.1",
     "request": "^2.79.0",
     "sequelize": "^3.30.0",
     "socket.io": "^1.7.3",
     "socket.io-client": "^1.7.3",
-    "solc": "^0.4.10",
+    "solc": "^0.6.12",
     "web3": "^0.18.4"
   },
   "scripts": {

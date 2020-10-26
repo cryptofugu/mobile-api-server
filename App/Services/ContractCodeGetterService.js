@@ -1,6 +1,6 @@
 const _ = require('lodash');
 const async = require('async');
-const coreLib = require('qtumcore-lib');
+const coreLib = require('bcscore-lib');
 const ContractPurchaseRepository = require('../Repositories/ContractPurchaseRepository');
 const ContractsRepository = require('../Repositories/ContractsRepository');
 const ContractDownloadRepository = require('../Repositories/ContractDownloadRepository');

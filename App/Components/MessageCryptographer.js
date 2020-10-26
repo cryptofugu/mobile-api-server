@@ -1,4 +1,4 @@
-let qtumcore = require('qtumcore-lib');
+let qtumcore = require('bcscore-lib');
 let _ = qtumcore.deps._;
 let PrivateKey = qtumcore.PrivateKey;
 let PublicKey = qtumcore.PublicKey;
