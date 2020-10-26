@@ -4,7 +4,7 @@
   "description": "Node.JS mobile server for BCS Chain application",
   "dependencies": {
     "async": "^2.1.4",
-    "bcscore-lib": "https://github.com/cook-alex/bcscore-lib.git",
+    "bcscore-lib": "https://github.com/cryptofugu/bcscore-lib.git",
     "bignumber.js": "^4.0.0",
     "bitcoin": "^3.0.1",
     "bitcoinjs-lib": "^2.3.0",
